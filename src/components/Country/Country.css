@@ -1,0 +1,25 @@
+.country-container{
+    text-align: center;
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid goldenrod;
+    background-color: lightgray;
+    color: black;
+    /* background: cyan; */
+}
+.details{
+    width: 500px;
+    margin-left: 20px;
+    margin-right: 30p;
+    /* background-color: antiquewhite; */ 
+}
+.details h4{
+    color:rgb(0, 8, 255)
+}
+.flag img{
+    margin-top: 20px;
+    height: 200px;
+    width: 300px;
+    /* background-color: gold; */
+}
